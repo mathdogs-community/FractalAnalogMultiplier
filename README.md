@@ -29,3 +29,16 @@ It includes:
 
 -   Console output with simulation results (multiplication accuracy, GCD steps).
 -   `gcd_multiplication_duality.png`: A visualization of the algorithm.
+
+## 🎓 Mentorship & Collaboration
+
+This project is developed as part of independent research using AI tools and analysis.
+
+-   **Lead Researcher:** Benson Su
+-   **Mentor:** Ms. J Yu
+-   **Contact:** Jeyu@mednet.ucla.edu
+
+## ⚖️ License & Citation
+
+-   **Code:** MIT License (free for research use)
+-   **Citation:** Please cite our repo if using this work.
